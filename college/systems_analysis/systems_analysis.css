@@ -79,7 +79,6 @@ nav {
     text-align: center;
     color: white;
     font-family: 'Sintony', sans-serif;
-    padding: 0 20%;
 }
 .container-two {
     position: absolute;
@@ -104,12 +103,11 @@ nav {
     text-align: center;
     color: white;
     font-family: 'Sintony', sans-serif;
-    padding: 0 20%;
 }
 .text-container {
     margin-top: 35%;
     text-align: center;
-    padding: 0 20px;
+    padding: 0 20%;
 }
 .text-container p {
     color: white;
