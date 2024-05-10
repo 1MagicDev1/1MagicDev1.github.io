@@ -67,6 +67,7 @@ nav {
 }
 .grid-container p {
     color: white;
+    padding: 0 20%;
     font-family: 'Sintony', sans-serif;
     font-size: 21px;
 }
