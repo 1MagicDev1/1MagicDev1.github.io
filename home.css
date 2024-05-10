@@ -145,7 +145,7 @@ nav {
     }
     .title {
         scale: 140%;
-        margin: 0;
+        margin-left: 25%;
     }
     .title:hover {
         scale: 150%
