@@ -63,28 +63,20 @@ nav {
 }
 .grid-container > div {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 20%;
 }
 .grid-container p {
     color: white;
-    padding: 0 20%;
     font-family: 'Sintony', sans-serif;
     font-size: 21px;
 }
 .item1 {
     grid-column: 1 / span 3;
     grid-row: 1;
-    padding: 0 20%;
-}
-.item2 {
-    padding: 0 20%;
 }
 .item3 {
     height: 200px;
     line-height: 200px;
-}
-.item4 {
-    padding: 0 20%;
 }
 .image-container {
     position: absolute;
