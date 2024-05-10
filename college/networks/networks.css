@@ -69,6 +69,8 @@ nav {
 }
 .grid-container img {
     width: 70%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    border-radius: 10px;
 }
 .image {
     width: 100%;
@@ -114,6 +116,8 @@ nav {
 }
 .image-example img {
     width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    border-radius: 10px;
 }
 .text-container {
     margin-top: 1%;

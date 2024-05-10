@@ -70,6 +70,8 @@ nav {
 }
 .grid-container img {
     width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    border-radius: 10px;
 }
 .grid-container p{
   color: white;

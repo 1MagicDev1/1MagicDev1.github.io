@@ -77,10 +77,13 @@ nav {
     font-family: 'Sintony', sans-serif;
 }
 .image {
-    width: 90%;
+    text-align: center;
+    width: 100%;
 }
 .image img {
     width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    border-radius: 10px;
 }
 @media (max-width: 991px) {
     .navbar-nav > li {
@@ -94,6 +97,21 @@ nav {
     }
     .title h1{
         font-size: 80px;
+    }
+    .grid-container {
+        grid-template-columns: auto;
+    }
+    .item3 {
+        grid-row: 4;
+    }
+    .item4 {
+        grid-row: 3;
+    }
+    .text {
+        padding: 0 5%;
+    }
+    .text p {
+        font-size: 40px;
     }
 }
 @keyframes transitionIn {

@@ -95,9 +95,6 @@ nav {
     vertical-align: middle;
     margin-right: 150px;
 }
-.image-two img {
-    transform: scaleX(-1);
-}
 .text-two h2 {
     font-size: 40px
 }

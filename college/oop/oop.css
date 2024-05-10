@@ -77,6 +77,8 @@ nav {
 }
 .item7 img {
     width: 95%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    border-radius: 10px;
 }
 @media (max-width: 991px) {
     .navbar-nav > li {
