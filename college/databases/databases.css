@@ -100,8 +100,8 @@ nav {
         font-size: 80px;
     }
     .grid-container {
-      grid-template-columns: auto;
-      padding: 10px;
+        grid-template-columns: auto;
+        padding: 10px;
     }
     .item1 {
         grid-row: 2;
@@ -110,9 +110,10 @@ nav {
         grid-row: 1;
     }
     .grid-container p{
-      font-size: 35px;
+        font-size: 35px;
     }
     .text-container p {
+        padding: 0 5%;
         font-size: 40px;
     }
 }
